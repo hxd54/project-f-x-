@@ -433,7 +433,7 @@ switch(pnumber) {
 			break;
 	}
 		cout<<"----------------------------------------------"<<endl;
-	cout<<"--  HAXDEV54  --  KION</>  --  HUGHO  --"<<endl;
+	cout<<"--  HAXDEV54  --  KION</>  --  HUGHO-Dev  --"<<endl;
 	cout<<"--------------- ALL RIGHTS RESERVED -----------\n"<<endl;
 		
 	return 0; 
